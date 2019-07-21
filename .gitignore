@@ -1,0 +1,8 @@
+# IDE import
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
